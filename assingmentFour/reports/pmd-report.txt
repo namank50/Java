@@ -1,0 +1,216 @@
+src/assingmentFour/first.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/first.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/first.java:4:	ClassNamingConventions:	ClassNamingConventions: The class name 'first' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/first.java:4:	ClassNamingConventions:	ClassNamingConventions: The class name 'first' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/first.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/first.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/first.java:4:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assingmentFour/first.java:4:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assingmentFour/first.java:6:	ClassNamingConventions:	ClassNamingConventions: The interface name 'i' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/first.java:6:	ClassNamingConventions:	ClassNamingConventions: The interface name 'i' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/first.java:6:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the i nested class if you want a default access modifier
+src/assingmentFour/first.java:6:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the i nested class if you want a default access modifier
+src/assingmentFour/first.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/first.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/first.java:6:	ShortClassName:	ShortClassName: Avoid short class names like i
+src/assingmentFour/first.java:6:	ShortClassName:	ShortClassName: Avoid short class names like i
+src/assingmentFour/first.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/first.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/first.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/assingmentFour/first.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/assingmentFour/first.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/assingmentFour/first.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/assingmentFour/first.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/first.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/first.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/assingmentFour/first.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/assingmentFour/first.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'add' could be declared final
+src/assingmentFour/first.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'add' could be declared final
+src/assingmentFour/first.java:15:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:15:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:15:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:15:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'multiply' could be declared final
+src/assingmentFour/first.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'multiply' could be declared final
+src/assingmentFour/first.java:17:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:17:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'devide' could be declared final
+src/assingmentFour/first.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'devide' could be declared final
+src/assingmentFour/first.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:19:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:19:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sub' could be declared final
+src/assingmentFour/first.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sub' could be declared final
+src/assingmentFour/first.java:21:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:21:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/assingmentFour/first.java:21:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/first.java:21:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/fourth.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/fourth.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/fourth.java:6:	ClassNamingConventions:	ClassNamingConventions: The class name 'fourth' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/fourth.java:6:	ClassNamingConventions:	ClassNamingConventions: The class name 'fourth' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/fourth.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/fourth.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/fourth.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assingmentFour/fourth.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assingmentFour/fourth.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/fourth.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/fourth.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/assingmentFour/fourth.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/assingmentFour/fourth.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'string' could be declared final
+src/assingmentFour/fourth.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'string' could be declared final
+src/assingmentFour/fourth.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/assingmentFour/fourth.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/assingmentFour/fourth.java:22:	UselessOperationOnImmutable:	UselessOperationOnImmutable: An operation on an Immutable object (String, BigDecimal or BigInteger) wont change the object itself
+src/assingmentFour/fourth.java:22:	UselessOperationOnImmutable:	UselessOperationOnImmutable: An operation on an Immutable object (String, BigDecimal or BigInteger) wont change the object itself
+src/assingmentFour/fourth.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/fourth.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/order.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/order.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/order.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'order' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/order.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'order' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/order.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/order.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/order.java:4:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assingmentFour/order.java:4:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assingmentFour/order.java:4:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the price field if you want a default access modifier
+src/assingmentFour/order.java:4:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the price field if you want a default access modifier
+src/assingmentFour/order.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/assingmentFour/order.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/assingmentFour/order.java:4:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/assingmentFour/order.java:4:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/assingmentFour/order.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assingmentFour/order.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assingmentFour/order.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the status field if you want a default access modifier
+src/assingmentFour/order.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the status field if you want a default access modifier
+src/assingmentFour/order.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/assingmentFour/order.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/assingmentFour/order.java:5:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/assingmentFour/order.java:5:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/assingmentFour/order.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/order.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/order.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/assingmentFour/order.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/assingmentFour/order.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/assingmentFour/order.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/assingmentFour/second.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/second.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/second.java:4:	UnusedImports:	UnusedImports: Avoid unused imports such as 'java.util.function.Predicate'
+src/assingmentFour/second.java:4:	UnusedImports:	UnusedImports: Avoid unused imports such as 'java.util.function.Predicate'
+src/assingmentFour/second.java:6:	ClassNamingConventions:	ClassNamingConventions: The class name 'second' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/second.java:6:	ClassNamingConventions:	ClassNamingConventions: The class name 'second' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/second.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/second.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/second.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assingmentFour/second.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assingmentFour/second.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/second.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/second.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/assingmentFour/second.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/assingmentFour/second.java:10:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '10'-'44').
+src/assingmentFour/second.java:10:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '10'-'44').
+src/assingmentFour/second.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/assingmentFour/second.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/assingmentFour/second.java:10:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/assingmentFour/second.java:10:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/assingmentFour/second.java:10:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'n'.
+src/assingmentFour/second.java:10:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'n'.
+src/assingmentFour/second.java:10:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000 should separate every third digit with an underscore
+src/assingmentFour/second.java:10:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000 should separate every third digit with an underscore
+src/assingmentFour/second.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'od' could be declared final
+src/assingmentFour/second.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'od' could be declared final
+src/assingmentFour/second.java:11:	ShortVariable:	ShortVariable: Avoid variables with short names like od
+src/assingmentFour/second.java:11:	ShortVariable:	ShortVariable: Avoid variables with short names like od
+src/assingmentFour/second.java:12:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000 should separate every third digit with an underscore
+src/assingmentFour/second.java:12:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000 should separate every third digit with an underscore
+src/assingmentFour/second.java:13:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "COMPLETED" appears 4 times in this file; the first occurrence is on line 13
+src/assingmentFour/second.java:13:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "COMPLETED" appears 4 times in this file; the first occurrence is on line 13
+src/assingmentFour/second.java:14:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 80000 should separate every third digit with an underscore
+src/assingmentFour/second.java:14:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 80000 should separate every third digit with an underscore
+src/assingmentFour/second.java:16:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 30000 should separate every third digit with an underscore
+src/assingmentFour/second.java:16:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 30000 should separate every third digit with an underscore
+src/assingmentFour/second.java:18:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'c' (lines '18'-'44').
+src/assingmentFour/second.java:18:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'c' (lines '18'-'44').
+src/assingmentFour/second.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/assingmentFour/second.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/assingmentFour/second.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/assingmentFour/second.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/assingmentFour/second.java:19:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/assingmentFour/second.java:19:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/assingmentFour/second.java:19:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/assingmentFour/second.java:19:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/assingmentFour/second.java:19:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000 should separate every third digit with an underscore
+src/assingmentFour/second.java:19:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000 should separate every third digit with an underscore
+src/assingmentFour/second.java:20:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:20:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:20:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:20:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:24:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:24:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:24:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/assingmentFour/second.java:24:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/assingmentFour/second.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'o' could be declared final
+src/assingmentFour/second.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'o' could be declared final
+src/assingmentFour/second.java:26:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'b' (lines '26'-'44').
+src/assingmentFour/second.java:26:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'b' (lines '26'-'44').
+src/assingmentFour/second.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/assingmentFour/second.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/assingmentFour/second.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/assingmentFour/second.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/assingmentFour/second.java:27:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/assingmentFour/second.java:27:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/assingmentFour/second.java:28:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:28:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:28:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:28:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:31:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:31:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:32:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:32:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:32:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/assingmentFour/second.java:32:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/assingmentFour/second.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'o' could be declared final
+src/assingmentFour/second.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'o' could be declared final
+src/assingmentFour/second.java:35:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'd' (lines '35'-'44').
+src/assingmentFour/second.java:35:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'd' (lines '35'-'44').
+src/assingmentFour/second.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'd' could be declared final
+src/assingmentFour/second.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'd' could be declared final
+src/assingmentFour/second.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like d
+src/assingmentFour/second.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like d
+src/assingmentFour/second.java:36:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/assingmentFour/second.java:36:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/assingmentFour/second.java:37:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:37:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:40:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:40:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/assingmentFour/second.java:41:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:41:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/assingmentFour/second.java:41:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/assingmentFour/second.java:41:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/assingmentFour/second.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'o' could be declared final
+src/assingmentFour/second.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'o' could be declared final
+src/assingmentFour/second.java:47:	ClassNamingConventions:	ClassNamingConventions: The interface name 'condition' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/second.java:47:	ClassNamingConventions:	ClassNamingConventions: The interface name 'condition' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/second.java:47:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the condition nested class if you want a default access modifier
+src/assingmentFour/second.java:47:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the condition nested class if you want a default access modifier
+src/assingmentFour/second.java:47:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/second.java:47:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/second.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/second.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/assingmentFour/second.java:48:	ShortVariable:	ShortVariable: Avoid variables with short names like o
+src/assingmentFour/second.java:48:	ShortVariable:	ShortVariable: Avoid variables with short names like o
+src/assingmentFour/sixth.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/sixth.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/assingmentFour/sixth.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/assingmentFour/sixth.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/assingmentFour/sixth.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'sixth' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/sixth.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'sixth' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/assingmentFour/sixth.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/assingmentFour/sixth.java:3:	CommentRequired:	CommentRequired: Class comments are required
